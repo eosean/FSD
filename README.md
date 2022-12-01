@@ -1,9 +1,8 @@
 # FSD repo
-網址
 
-https://github.com/eoSean/FSD
+網址: https://github.com/eoSean/FSD
 
-切換目錄
+1. 切換目錄
 
 cd /C/EO.s/Source\ code/Git/repo3
 
