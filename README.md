@@ -24,6 +24,6 @@ git commit -m "alter README.md"
 
 git push origin main
 
-. 雲端載入
+* 雲端載入
 
 git pull
