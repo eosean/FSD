@@ -17,3 +17,7 @@ netstat -n 查看連線項目
 ‪C:\Windows\System32\drivers\etc\services
 
 namecheap
+
+
+
+127.0.0.1
