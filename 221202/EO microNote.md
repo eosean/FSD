@@ -16,6 +16,6 @@ netstat -n 查看連線項目
 
 namecheap
 
+---
 
-
-127.0.0.1
+127.0.0.1 Localhost
