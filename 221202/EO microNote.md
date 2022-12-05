@@ -8,8 +8,6 @@ q21392389@gmail.com
 
 w07.iii.pinju.in
 
-
-
 ---
 
 netstat -n 查看連線項目
