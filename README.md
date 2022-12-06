@@ -2,6 +2,8 @@
 
 網址: https://github.com/eoSean/FSD
 
+git remote set-url origin git@github.com:eoSean/FSD.git
+
 * 切換目錄
 
 cd /C/EO.s/Source\ code/Git/FSD
