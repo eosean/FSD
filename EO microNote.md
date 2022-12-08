@@ -1,6 +1,9 @@
-安裝 linq to sql
+有修改專案: WindowsFormsApp8
 
 
 
-Git & GitHub 教學手冊
-https://w3c.hexschool.com/git/cfdbd310
+ChatGPT 聊天機器人
+
+
+
+3:00防火牆設定在看一次
