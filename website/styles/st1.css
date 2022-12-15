@@ -1,0 +1,47 @@
+        h2.st1 {
+            color: purple;
+            text-transform: capitalize;
+        }
+
+        .st2 {
+            color: lightblue;
+            font-style: italic;
+        }
+
+        .col2 {
+            color: brown;
+        }
+
+        .col1 {
+            color: gray
+        }
+
+        .size1 {
+            font-size: 2em;
+        }
+
+        .trans1 {
+            text-transform: uppercase
+        }
+
+        .sty1 {
+            font-style: italic;
+        }
+
+        .col_1 {
+            color: blue
+        }
+
+        h1 {
+            color: green
+        }
+
+        #col_2 {
+            color: purple
+        }
+
+        p {
+            color: #02F78E;
+            text-decoration: underline;
+            font-size: 2em;
+        }
