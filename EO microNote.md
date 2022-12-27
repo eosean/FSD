@@ -12,3 +12,6 @@ variant變種
 
 8進位?
 
+============
+
+https://www.w3schools.com/jsrEF/default.asp
