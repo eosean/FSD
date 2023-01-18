@@ -23,3 +23,5 @@ mvvm
 1/17的core再看一次
 
 1/18  3:17繼續練習
+
+https://www.facebook.com/groups/315092664923/?ref=share&mibextid=KtfwRi
