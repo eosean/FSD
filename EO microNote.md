@@ -1,27 +1,23 @@
-mvc:
+### JS
 
-規劃工具: UML
+let one = 1, two = 2;
 
-
-
-pse.is/4pvyjc
+console.log(one + two);
 
 
-
-QnA Maker
-
-
-
-建立單元測試
-
-TDD測試驅動開發
-
-mvvm
+var
+const
 
 
+提示視窗: 
+prompt("Enter passcpde");
 
-1/17的core再看一次
 
-1/18  3:17繼續練習
+if(){}
+else if (){}
+else{}
 
-https://www.facebook.com/groups/315092664923/?ref=share&mibextid=KtfwRi
+
+while(){}
+
+do{}while()
